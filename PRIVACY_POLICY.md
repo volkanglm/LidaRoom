@@ -60,8 +60,7 @@ We may update this Privacy Policy from time to time. The updated policy will be 
 
 If you have questions about this Privacy Policy, please contact:
 
-**Volkan Gülem**
-Email: [volkanglm@gmail.com](mailto:volkanglm@gmail.com)
+E-mail: [lidaroomsupport@gmail.com](mailto:lidaroomsupport@gmail.com)
 GitHub: [https://github.com/volkanglm/LidaRoom](https://github.com/volkanglm/LidaRoom)
 
 ---
