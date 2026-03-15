@@ -75,8 +75,7 @@ We reserve the right to terminate or suspend your access to the App at any time,
 
 For questions about these Terms, please contact:
 
-**Volkan Gülem**
-Email: [volkanglm@gmail.com](mailto:volkanglm@gmail.com)
+E-mail: [lidaroomsupport@gmail.com](mailto:lidaroomsupport@gmail.com)
 GitHub: [https://github.com/volkanglm/LidaRoom](https://github.com/volkanglm/LidaRoom)
 
 ---
@@ -152,6 +151,6 @@ Yürürlükteki Şartları ihlal ettiğine veya diğer kullanıcılara, bize, ü
 
 Bu Şartlar hakkında sorularınız için lütfen bizimle iletişime geçin:
 
-**Volkan Gülem**
-E-posta: [volkanglm@gmail.com](mailto:volkanglm@gmail.com)
+
+E-posta: [lidaroomsupport@gmail.com](mailto:lidaroomsupport@gmail.com)
 GitHub: [https://github.com/volkanglm/LidaRoom](https://github.com/volkanglm/LidaRoom)
