@@ -122,6 +122,6 @@ Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Güncellenen politika
 
 Bu Gizlilik Politikası hakkında sorularınız için lütfen bizimle iletişime geçin:
 
-**Volkan Gülem**
-E-posta: [volkanglm@gmail.com](mailto:volkanglm@gmail.com)
+
+E-posta: [lidaroomsupport@gmail.com](mailto:lidaroomsupport@gmail.com)
 GitHub: [https://github.com/volkanglm/LidaRoom](https://github.com/volkanglm/LidaRoom)
