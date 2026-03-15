@@ -11,4 +11,4 @@ This repository hosts the legal documents for the **LidaRoom** iOS app.
 
 **LidaRoom** is an iOS app that uses Apple's RoomPlan API and LiDAR technology to create 3D room scans.
 
-Developer: Volkan Gülem · [volkanglm@gmail.com](mailto:volkanglm@gmail.com)
+[lidaroomsupport@gmail.com](mailto:lidaroomsupport@gmail.com)
